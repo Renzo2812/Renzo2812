@@ -6,13 +6,13 @@
 
 Apasionado por el código limpio y la arquitectura escalable. Construyendo proyectos personales y aprendiendo constantemente.
 
-[LinkedIn](https://www.linkedin.com/in/renzomendoza) · [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/renzo-mendoza/) · [Portfolio](#)
 
 ---
 
 ### 💻 Mi Stack Tecnológico
 
-![Stack de Renzo](https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,js,react,vscode&theme=dark)
+![Stack de Renzo](https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,postgresql,mysql,js,typescript,react,postman,vscode&theme=dark)
 
 ---
 
@@ -23,7 +23,8 @@ Apasionado por el código limpio y la arquitectura escalable. Construyendo proye
 | **ERP Farmacias** | Desarrollo de módulos de reportes de desempeño y márgenes de precio. | PHP · Laravel |
 | **POS Móvil** | Adaptación de punto de venta web a dispositivos móviles con teclado virtual táctil. | JavaScript · React |
 | **Global Lub** | Presencia web con formularios de contacto e integración de seguridad para consultas. | Node.js · HTML/CSS |
-| **Sistema Core** | Internacionalización del sistema para soporte en mercados de Ecuador y Costa Rica. | NestJS · TypeScript |
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Renzo2812&theme=palenight&show_ring=false&border_radius=7)
 
 ### 🐍 Mis Contribuciones
 
