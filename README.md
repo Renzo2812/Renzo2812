@@ -1,6 +1,6 @@
-![Banner de Renzo](https://github.com/user-attachments/assets/c2b802a0-3018-4cb2-b759-fb162826ead5)
+![Banner de Renzo](https://github.com/user-attachments/assets/339e2464-0b40-41d2-b6b6-7cba886807e7)
 
-# Hola, soy Renzo Mendoza 👋
+# Hola, soy Renzo Mendoza
 
 ### Software Developer | Backend Focused
 
@@ -10,13 +10,13 @@ Apasionado por el código limpio y la arquitectura escalable. Construyendo proye
 
 ---
 
-### 💻 Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 ![Stack de Renzo](https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,postgresql,mysql,js,typescript,react,postman,vscode&theme=dark)
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
@@ -26,7 +26,7 @@ Apasionado por el código limpio y la arquitectura escalable. Construyendo proye
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Renzo2812&theme=palenight&show_ring=false&border_radius=7)
 
-### 🐍 Mis Contribuciones
+### Mis Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renzo2812/renzo2812/output/github-contribution-grid-snake-dark.svg">
