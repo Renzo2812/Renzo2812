@@ -2,7 +2,7 @@
 
 # Hola, soy Renzo Mendoza
 
-### Software Developer | Backend Focused
+### Software Engineer
 
 Apasionado por el código limpio y la arquitectura escalable. Construyendo proyectos personales y aprendiendo constantemente.
 
