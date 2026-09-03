@@ -1,4 +1,4 @@
-![Banner de Renzo](https://github.com/user-attachments/assets/339e2464-0b40-41d2-b6b6-7cba886807e7)
+![Banner de Renzo](https://github.com/user-attachments/assets/8368d156-019e-4169-8711-25ea4b795ac6)
 
 # Hola, soy Renzo Mendoza
 
